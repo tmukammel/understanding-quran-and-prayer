@@ -32,5 +32,5 @@ In the name of Allah, the most Grecious, the most Merciful.
 
 ```
 ৪। আর তাঁর কোন সমকক্ষও নেই।
-4. And there is none comparable to Him.”
+4. And there is none comparable to Him.
 ```

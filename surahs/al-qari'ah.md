@@ -1,0 +1,2 @@
+# Surah Al-Qari'ah
+
