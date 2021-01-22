@@ -4,8 +4,9 @@
 
 ### Surahs
 
-* [Al-Qari'ah](surahs/al-qari'ah.md)
-* [Al-Ikhlas](surahs/al-ikhlas.md)
+* [Al-Fatihah](surahs/Al-Fatihah.md)
+* [Al-Qari'ah](surahs/Al-Qari'ah.md)
+* [Al-Ikhlas](surahs/Al-Ikhlas.md)
 
 ## Tashahhud
 

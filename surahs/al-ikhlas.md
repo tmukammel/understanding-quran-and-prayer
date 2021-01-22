@@ -1,4 +1,6 @@
-# Surah Al-Ikhlas
+# Surah Al-Ikhlas (The Sincerity)
+
+> ## Recitation and Translations
 
 ## `﷽`
 
@@ -34,3 +36,11 @@ In the name of Allah, the most Grecious, the most Merciful.
 ৪। আর তাঁর কোন সমকক্ষও নেই।
 4. And there is none comparable to Him.
 ```
+
+----
+
+> ## Informations
+
+### `Ayahs → 4`
+
+### `Revelation Place → Makkah`
