@@ -14,7 +14,7 @@
     * [**093:** Ad-Duhaa](surahs/Ad-Duhaa.md)  
     * [**094:** Ash-Sharh](surahs/Ash-Sharh.md)  
     * [**095:** At-Tin](surahs/At-Tin.md)  
-    * [096: Al-'Alaq](surahs/Al-'Alaq.md)  
+    * [**096:** Al-'Alaq](surahs/Al-'Alaq.md)  
     * [**097:** Al-Qadr](surahs/Al-Qadr.md)  
     * [098: Al-Bayyinah](surahs/Al-Bayyinah.md)  
     * [**099:** Az-Zalzalah](surahs/Az-Zalzalah.md)  
@@ -37,6 +37,11 @@
         </p>
     </details>
 
+* ## Adhan
+    * [Adhan](adhan/Adhan.md)
+    * [AdhanDua](adhan/AdhanDua.md)
+    * [Adhan](adhan/Adhan.md)
+
 * ## Prayer
     * [Iqamah](prayers/Iqamah.md)
     * [Takbeer](prayers/Takbeer.md)
@@ -53,6 +58,7 @@
 
 
 * ## Duas
+    * [Dua After Adhan](duas/DuaAfterAdhan.md);
 
 * ### Questions
     * [Prayer Salaam](questions/Prayer-Salaam.md)
